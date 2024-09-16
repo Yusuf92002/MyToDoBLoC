@@ -1,4 +1,4 @@
-Todo App with Flutter and Bloc State Management
+#Todo App with Flutter and Bloc State Management
 A feature-rich Todo app built with Flutter and Bloc state management, offering:
 
 Isar: A high-performance NoSQL database for efficient and fast persistent storage.
